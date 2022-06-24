@@ -12,5 +12,14 @@
     "dotenv": "^16.0.1",
     "mongoose": "^6.4.0",
     "yargs": "^17.5.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wren4Wren/Netflicks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Wren4Wren/Netflicks/issues"
+  },
+  "homepage": "https://github.com/Wren4Wren/Netflicks#readme"
 }
